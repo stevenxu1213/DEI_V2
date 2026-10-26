@@ -1,0 +1,3095 @@
+{
+  "source": "https://www.figma.com/design/cMvlCY5tVzkTHvGdwHLgtr?node-id=40-594",
+  "screens": [
+    {
+      "id": "13:2",
+      "name": "D01 · Thoughtful service. Human connection."
+    },
+    {
+      "id": "13:35",
+      "name": "D02 · Basic DEI"
+    },
+    {
+      "id": "14:17",
+      "name": "D03 · More learning is on its way."
+    },
+    {
+      "id": "14:31",
+      "name": "D04 · Your achievements"
+    },
+    {
+      "id": "14:45",
+      "name": "D05 · Your AI Companion"
+    },
+    {
+      "id": "14:59",
+      "name": "D06 · My learning"
+    },
+    {
+      "id": "14:73",
+      "name": "D07 · Watch. Reflect. Include."
+    },
+    {
+      "id": "14:90",
+      "name": "D08 · Learning video in progress"
+    },
+    {
+      "id": "14:111",
+      "name": "D09 · Ready to put it into practice?"
+    },
+    {
+      "id": "14:130",
+      "name": "D10 · Your video could not load"
+    },
+    {
+      "id": "14:144",
+      "name": "D11 · Save and leave?"
+    },
+    {
+      "id": "14:160",
+      "name": "D12 · We could not save your answer"
+    },
+    {
+      "id": "15:81",
+      "name": "Q1 · Choose the most inclusive response."
+    },
+    {
+      "id": "15:108",
+      "name": "Q1selected · Choose the most inclusive response."
+    },
+    {
+      "id": "15:135",
+      "name": "Q1done · Choose the most inclusive response."
+    },
+    {
+      "id": "15:163",
+      "name": "Q2 · Choose the most inclusive response."
+    },
+    {
+      "id": "15:190",
+      "name": "Q2selected · Choose the most inclusive response."
+    },
+    {
+      "id": "15:217",
+      "name": "Q2done · Choose the most inclusive response."
+    },
+    {
+      "id": "15:245",
+      "name": "Q3 · Choose the most inclusive response."
+    },
+    {
+      "id": "15:272",
+      "name": "Q3selected · Choose the most inclusive response."
+    },
+    {
+      "id": "15:299",
+      "name": "Q3done · Choose the most inclusive response."
+    },
+    {
+      "id": "15:327",
+      "name": "Q4 · Choose the most inclusive response."
+    },
+    {
+      "id": "15:354",
+      "name": "Q4selected · Choose the most inclusive response."
+    },
+    {
+      "id": "15:381",
+      "name": "Q4done · Choose the most inclusive response."
+    },
+    {
+      "id": "15:409",
+      "name": "Q5 · Choose the most inclusive response."
+    },
+    {
+      "id": "15:436",
+      "name": "Q5selected · Choose the most inclusive response."
+    },
+    {
+      "id": "15:463",
+      "name": "Q5done · Choose the most inclusive response."
+    },
+    {
+      "id": "15:491",
+      "name": "Q6 · Choose the most inclusive response."
+    },
+    {
+      "id": "15:518",
+      "name": "Q6selected · Choose the most inclusive response."
+    },
+    {
+      "id": "15:545",
+      "name": "Q6done · Choose the most inclusive response."
+    },
+    {
+      "id": "15:573",
+      "name": "Q7 · Choose the most inclusive response."
+    },
+    {
+      "id": "15:600",
+      "name": "Q7selected · Choose the most inclusive response."
+    },
+    {
+      "id": "15:627",
+      "name": "Q7done · Choose the most inclusive response."
+    },
+    {
+      "id": "15:655",
+      "name": "Q8 · Choose the most inclusive response."
+    },
+    {
+      "id": "15:682",
+      "name": "Q8selected · Choose the most inclusive response."
+    },
+    {
+      "id": "15:709",
+      "name": "Q8done · Choose the most inclusive response."
+    },
+    {
+      "id": "16:369",
+      "name": "D13 · Your first attempt"
+    },
+    {
+      "id": "16:385",
+      "name": "D14 · Your answer review"
+    },
+    {
+      "id": "16:430",
+      "name": "D15 · Well done. Keep practising."
+    },
+    {
+      "id": "16:445",
+      "name": "D16 · Correction round · 1 of 2"
+    },
+    {
+      "id": "16:463",
+      "name": "D17 · Correction round · 2 of 2"
+    },
+    {
+      "id": "16:480",
+      "name": "D18 · Correction review"
+    },
+    {
+      "id": "16:495",
+      "name": "D19 · Keep learning through practice"
+    },
+    {
+      "id": "16:509",
+      "name": "R01 · Help a colleague feel included"
+    },
+    {
+      "id": "16:524",
+      "name": "R02 · A conversation with Maya"
+    },
+    {
+      "id": "16:548",
+      "name": "R03 · A conversation with Maya"
+    },
+    {
+      "id": "16:572",
+      "name": "R04 · A conversation with Maya"
+    },
+    {
+      "id": "16:596",
+      "name": "R05 · Conversation complete"
+    },
+    {
+      "id": "16:609",
+      "name": "R06 · A little guidance"
+    },
+    {
+      "id": "16:623",
+      "name": "R07 · Maya could not respond"
+    },
+    {
+      "id": "16:638",
+      "name": "R08 · Your coach review"
+    },
+    {
+      "id": "16:656",
+      "name": "R09 · Look back at your conversation"
+    },
+    {
+      "id": "16:670",
+      "name": "D20 · Your first learning milestone"
+    },
+    {
+      "id": "16:687",
+      "name": "D21 · This learning session is complete"
+    },
+    {
+      "id": "16:700",
+      "name": "D22 · Technical interruption recorded"
+    },
+    {
+      "id": "16:715",
+      "name": "D23 · Return to your research survey"
+    },
+    {
+      "id": "16:729",
+      "name": "D24 · Survey handoff preview"
+    },
+    {
+      "id": "19:520",
+      "name": "R01-below-target · Help a colleague feel included"
+    },
+    {
+      "id": "19:535",
+      "name": "R02-below-target · A conversation with Maya"
+    },
+    {
+      "id": "19:559",
+      "name": "R03-below-target · A conversation with Maya"
+    },
+    {
+      "id": "19:583",
+      "name": "R04-below-target · A conversation with Maya"
+    },
+    {
+      "id": "19:607",
+      "name": "R05-below-target · Conversation complete"
+    },
+    {
+      "id": "19:620",
+      "name": "R06-below-target · A little guidance"
+    },
+    {
+      "id": "19:634",
+      "name": "R07-below-target · Maya could not respond"
+    },
+    {
+      "id": "19:649",
+      "name": "R08-below-target · Your coach review"
+    },
+    {
+      "id": "19:667",
+      "name": "R09-below-target · Look back at your conversation"
+    },
+    {
+      "id": "19:744",
+      "name": "D14-pass · Review after passing"
+    }
+  ],
+  "connections": [
+    {
+      "source": "13:2",
+      "node": "I13:3;6:14",
+      "label": "Achievements",
+      "target": "14:31"
+    },
+    {
+      "source": "13:2",
+      "node": "I13:3;6:15",
+      "label": "AI Companion",
+      "target": "14:45"
+    },
+    {
+      "source": "13:2",
+      "node": "I13:3;6:16",
+      "label": "My Learning",
+      "target": "14:59"
+    },
+    {
+      "source": "13:2",
+      "node": "13:16",
+      "label": "Explore Basic DEI",
+      "target": "13:35"
+    },
+    {
+      "source": "13:2",
+      "node": "13:23",
+      "label": "Start learning",
+      "target": "13:35"
+    },
+    {
+      "source": "13:2",
+      "node": "13:28",
+      "label": "View availability",
+      "target": "14:17"
+    },
+    {
+      "source": "13:2",
+      "node": "13:33",
+      "label": "View availability",
+      "target": "14:17"
+    },
+    {
+      "source": "13:35",
+      "node": "I13:36;6:12",
+      "label": "B E L O N G",
+      "target": "13:2"
+    },
+    {
+      "source": "13:35",
+      "node": "I13:36;6:13",
+      "label": "Courses",
+      "target": "13:2"
+    },
+    {
+      "source": "13:35",
+      "node": "I13:36;6:14",
+      "label": "Achievements",
+      "target": "14:31"
+    },
+    {
+      "source": "13:35",
+      "node": "I13:36;6:15",
+      "label": "AI Companion",
+      "target": "14:45"
+    },
+    {
+      "source": "13:35",
+      "node": "I13:36;6:16",
+      "label": "My Learning",
+      "target": "14:59"
+    },
+    {
+      "source": "13:35",
+      "node": "13:52",
+      "label": "Start learning",
+      "target": "14:73"
+    },
+    {
+      "source": "14:17",
+      "node": "I14:18;6:12",
+      "label": "B E L O N G",
+      "target": "13:2"
+    },
+    {
+      "source": "14:17",
+      "node": "I14:18;6:13",
+      "label": "Courses",
+      "target": "13:2"
+    },
+    {
+      "source": "14:17",
+      "node": "I14:18;6:14",
+      "label": "Achievements",
+      "target": "14:31"
+    },
+    {
+      "source": "14:17",
+      "node": "I14:18;6:15",
+      "label": "AI Companion",
+      "target": "14:45"
+    },
+    {
+      "source": "14:17",
+      "node": "I14:18;6:16",
+      "label": "My Learning",
+      "target": "14:59"
+    },
+    {
+      "source": "14:17",
+      "node": "14:28",
+      "label": "Back to courses",
+      "target": "13:2"
+    },
+    {
+      "source": "14:31",
+      "node": "I14:32;6:12",
+      "label": "B E L O N G",
+      "target": "13:2"
+    },
+    {
+      "source": "14:31",
+      "node": "I14:32;6:13",
+      "label": "Courses",
+      "target": "13:2"
+    },
+    {
+      "source": "14:31",
+      "node": "I14:32;6:15",
+      "label": "AI Companion",
+      "target": "14:45"
+    },
+    {
+      "source": "14:31",
+      "node": "I14:32;6:16",
+      "label": "My Learning",
+      "target": "14:59"
+    },
+    {
+      "source": "14:31",
+      "node": "14:42",
+      "label": "Explore Basic DEI",
+      "target": "13:35"
+    },
+    {
+      "source": "14:45",
+      "node": "I14:46;6:12",
+      "label": "B E L O N G",
+      "target": "13:2"
+    },
+    {
+      "source": "14:45",
+      "node": "I14:46;6:13",
+      "label": "Courses",
+      "target": "13:2"
+    },
+    {
+      "source": "14:45",
+      "node": "I14:46;6:14",
+      "label": "Achievements",
+      "target": "14:31"
+    },
+    {
+      "source": "14:45",
+      "node": "I14:46;6:16",
+      "label": "My Learning",
+      "target": "14:59"
+    },
+    {
+      "source": "14:45",
+      "node": "14:56",
+      "label": "Continue learning",
+      "target": "14:59"
+    },
+    {
+      "source": "14:59",
+      "node": "I14:60;6:12",
+      "label": "B E L O N G",
+      "target": "13:2"
+    },
+    {
+      "source": "14:59",
+      "node": "I14:60;6:13",
+      "label": "Courses",
+      "target": "13:2"
+    },
+    {
+      "source": "14:59",
+      "node": "I14:60;6:14",
+      "label": "Achievements",
+      "target": "14:31"
+    },
+    {
+      "source": "14:59",
+      "node": "I14:60;6:15",
+      "label": "AI Companion",
+      "target": "14:45"
+    },
+    {
+      "source": "14:59",
+      "node": "14:70",
+      "label": "Resume video",
+      "target": "14:73"
+    },
+    {
+      "source": "14:73",
+      "node": "I14:74;6:12",
+      "label": "B E L O N G",
+      "target": "14:144"
+    },
+    {
+      "source": "14:73",
+      "node": "I14:74;6:13",
+      "label": "Courses",
+      "target": "14:144"
+    },
+    {
+      "source": "14:73",
+      "node": "I14:74;6:14",
+      "label": "Achievements",
+      "target": "14:144"
+    },
+    {
+      "source": "14:73",
+      "node": "I14:74;6:15",
+      "label": "AI Companion",
+      "target": "14:144"
+    },
+    {
+      "source": "14:73",
+      "node": "I14:74;6:16",
+      "label": "My Learning",
+      "target": "14:144"
+    },
+    {
+      "source": "14:73",
+      "node": "14:87",
+      "label": "Play video · demo",
+      "target": "14:90"
+    },
+    {
+      "source": "14:90",
+      "node": "I14:91;6:12",
+      "label": "B E L O N G",
+      "target": "14:144"
+    },
+    {
+      "source": "14:90",
+      "node": "I14:91;6:13",
+      "label": "Courses",
+      "target": "14:144"
+    },
+    {
+      "source": "14:90",
+      "node": "I14:91;6:14",
+      "label": "Achievements",
+      "target": "14:144"
+    },
+    {
+      "source": "14:90",
+      "node": "I14:91;6:15",
+      "label": "AI Companion",
+      "target": "14:144"
+    },
+    {
+      "source": "14:90",
+      "node": "I14:91;6:16",
+      "label": "My Learning",
+      "target": "14:144"
+    },
+    {
+      "source": "14:90",
+      "node": "14:104",
+      "label": "Simulate video completion",
+      "target": "14:111"
+    },
+    {
+      "source": "14:90",
+      "node": "14:106",
+      "label": "Video loading error",
+      "target": "14:130"
+    },
+    {
+      "source": "14:90",
+      "node": "14:108",
+      "label": "Pause and leave",
+      "target": "14:144"
+    },
+    {
+      "source": "14:111",
+      "node": "I14:112;6:12",
+      "label": "B E L O N G",
+      "target": "14:144"
+    },
+    {
+      "source": "14:111",
+      "node": "I14:112;6:13",
+      "label": "Courses",
+      "target": "14:144"
+    },
+    {
+      "source": "14:111",
+      "node": "I14:112;6:14",
+      "label": "Achievements",
+      "target": "14:144"
+    },
+    {
+      "source": "14:111",
+      "node": "I14:112;6:15",
+      "label": "AI Companion",
+      "target": "14:144"
+    },
+    {
+      "source": "14:111",
+      "node": "I14:112;6:16",
+      "label": "My Learning",
+      "target": "14:144"
+    },
+    {
+      "source": "14:111",
+      "node": "14:125",
+      "label": "Start eight questions",
+      "target": "15:81"
+    },
+    {
+      "source": "14:111",
+      "node": "14:127",
+      "label": "Rewatch video",
+      "target": "14:90"
+    },
+    {
+      "source": "14:130",
+      "node": "I14:131;6:12",
+      "label": "B E L O N G",
+      "target": "14:144"
+    },
+    {
+      "source": "14:130",
+      "node": "I14:131;6:13",
+      "label": "Courses",
+      "target": "14:144"
+    },
+    {
+      "source": "14:130",
+      "node": "I14:131;6:14",
+      "label": "Achievements",
+      "target": "14:144"
+    },
+    {
+      "source": "14:130",
+      "node": "I14:131;6:15",
+      "label": "AI Companion",
+      "target": "14:144"
+    },
+    {
+      "source": "14:130",
+      "node": "I14:131;6:16",
+      "label": "My Learning",
+      "target": "14:144"
+    },
+    {
+      "source": "14:130",
+      "node": "14:141",
+      "label": "Reload video",
+      "target": "14:90"
+    },
+    {
+      "source": "14:144",
+      "node": "I14:145;6:12",
+      "label": "B E L O N G",
+      "target": "13:2"
+    },
+    {
+      "source": "14:144",
+      "node": "I14:145;6:13",
+      "label": "Courses",
+      "target": "13:2"
+    },
+    {
+      "source": "14:144",
+      "node": "I14:145;6:14",
+      "label": "Achievements",
+      "target": "14:31"
+    },
+    {
+      "source": "14:144",
+      "node": "I14:145;6:15",
+      "label": "AI Companion",
+      "target": "14:45"
+    },
+    {
+      "source": "14:144",
+      "node": "I14:145;6:16",
+      "label": "My Learning",
+      "target": "14:59"
+    },
+    {
+      "source": "14:144",
+      "node": "14:155",
+      "label": "Save and leave",
+      "target": "14:59"
+    },
+    {
+      "source": "14:144",
+      "node": "14:157",
+      "label": "Keep learning",
+      "target": "15:81"
+    },
+    {
+      "source": "14:160",
+      "node": "I14:161;6:12",
+      "label": "B E L O N G",
+      "target": "14:144"
+    },
+    {
+      "source": "14:160",
+      "node": "I14:161;6:13",
+      "label": "Courses",
+      "target": "14:144"
+    },
+    {
+      "source": "14:160",
+      "node": "I14:161;6:14",
+      "label": "Achievements",
+      "target": "14:144"
+    },
+    {
+      "source": "14:160",
+      "node": "I14:161;6:15",
+      "label": "AI Companion",
+      "target": "14:144"
+    },
+    {
+      "source": "14:160",
+      "node": "I14:161;6:16",
+      "label": "My Learning",
+      "target": "14:144"
+    },
+    {
+      "source": "14:160",
+      "node": "14:171",
+      "label": "Retry saving",
+      "target": "15:135"
+    },
+    {
+      "source": "15:81",
+      "node": "I15:82;6:12",
+      "label": "B E L O N G",
+      "target": "14:144"
+    },
+    {
+      "source": "15:81",
+      "node": "I15:82;6:13",
+      "label": "Courses",
+      "target": "14:144"
+    },
+    {
+      "source": "15:81",
+      "node": "I15:82;6:14",
+      "label": "Achievements",
+      "target": "14:144"
+    },
+    {
+      "source": "15:81",
+      "node": "I15:82;6:15",
+      "label": "AI Companion",
+      "target": "14:144"
+    },
+    {
+      "source": "15:81",
+      "node": "I15:82;6:16",
+      "label": "My Learning",
+      "target": "14:144"
+    },
+    {
+      "source": "15:81",
+      "node": "15:97",
+      "label": "Answer option",
+      "target": "15:108"
+    },
+    {
+      "source": "15:81",
+      "node": "15:99",
+      "label": "Answer option",
+      "target": "15:108"
+    },
+    {
+      "source": "15:81",
+      "node": "15:101",
+      "label": "Answer option",
+      "target": "15:108"
+    },
+    {
+      "source": "15:81",
+      "node": "15:105",
+      "label": "Save and leave",
+      "target": "14:144"
+    },
+    {
+      "source": "15:108",
+      "node": "I15:109;6:12",
+      "label": "B E L O N G",
+      "target": "14:144"
+    },
+    {
+      "source": "15:108",
+      "node": "I15:109;6:13",
+      "label": "Courses",
+      "target": "14:144"
+    },
+    {
+      "source": "15:108",
+      "node": "I15:109;6:14",
+      "label": "Achievements",
+      "target": "14:144"
+    },
+    {
+      "source": "15:108",
+      "node": "I15:109;6:15",
+      "label": "AI Companion",
+      "target": "14:144"
+    },
+    {
+      "source": "15:108",
+      "node": "I15:109;6:16",
+      "label": "My Learning",
+      "target": "14:144"
+    },
+    {
+      "source": "15:108",
+      "node": "15:130",
+      "label": "Submit answer",
+      "target": "15:135"
+    },
+    {
+      "source": "15:108",
+      "node": "15:132",
+      "label": "Save and leave",
+      "target": "14:144"
+    },
+    {
+      "source": "15:135",
+      "node": "I15:136;6:12",
+      "label": "B E L O N G",
+      "target": "14:144"
+    },
+    {
+      "source": "15:135",
+      "node": "I15:136;6:13",
+      "label": "Courses",
+      "target": "14:144"
+    },
+    {
+      "source": "15:135",
+      "node": "I15:136;6:14",
+      "label": "Achievements",
+      "target": "14:144"
+    },
+    {
+      "source": "15:135",
+      "node": "I15:136;6:15",
+      "label": "AI Companion",
+      "target": "14:144"
+    },
+    {
+      "source": "15:135",
+      "node": "I15:136;6:16",
+      "label": "My Learning",
+      "target": "14:144"
+    },
+    {
+      "source": "15:135",
+      "node": "15:158",
+      "label": "Continue",
+      "target": "15:163"
+    },
+    {
+      "source": "15:135",
+      "node": "15:160",
+      "label": "Save and leave",
+      "target": "14:144"
+    },
+    {
+      "source": "15:163",
+      "node": "I15:164;6:12",
+      "label": "B E L O N G",
+      "target": "14:144"
+    },
+    {
+      "source": "15:163",
+      "node": "I15:164;6:13",
+      "label": "Courses",
+      "target": "14:144"
+    },
+    {
+      "source": "15:163",
+      "node": "I15:164;6:14",
+      "label": "Achievements",
+      "target": "14:144"
+    },
+    {
+      "source": "15:163",
+      "node": "I15:164;6:15",
+      "label": "AI Companion",
+      "target": "14:144"
+    },
+    {
+      "source": "15:163",
+      "node": "I15:164;6:16",
+      "label": "My Learning",
+      "target": "14:144"
+    },
+    {
+      "source": "15:163",
+      "node": "15:179",
+      "label": "Answer option",
+      "target": "15:190"
+    },
+    {
+      "source": "15:163",
+      "node": "15:181",
+      "label": "Answer option",
+      "target": "15:190"
+    },
+    {
+      "source": "15:163",
+      "node": "15:183",
+      "label": "Answer option",
+      "target": "15:190"
+    },
+    {
+      "source": "15:163",
+      "node": "15:187",
+      "label": "Save and leave",
+      "target": "14:144"
+    },
+    {
+      "source": "15:190",
+      "node": "I15:191;6:12",
+      "label": "B E L O N G",
+      "target": "14:144"
+    },
+    {
+      "source": "15:190",
+      "node": "I15:191;6:13",
+      "label": "Courses",
+      "target": "14:144"
+    },
+    {
+      "source": "15:190",
+      "node": "I15:191;6:14",
+      "label": "Achievements",
+      "target": "14:144"
+    },
+    {
+      "source": "15:190",
+      "node": "I15:191;6:15",
+      "label": "AI Companion",
+      "target": "14:144"
+    },
+    {
+      "source": "15:190",
+      "node": "I15:191;6:16",
+      "label": "My Learning",
+      "target": "14:144"
+    },
+    {
+      "source": "15:190",
+      "node": "15:212",
+      "label": "Submit answer",
+      "target": "15:217"
+    },
+    {
+      "source": "15:190",
+      "node": "15:214",
+      "label": "Save and leave",
+      "target": "14:144"
+    },
+    {
+      "source": "15:217",
+      "node": "I15:218;6:12",
+      "label": "B E L O N G",
+      "target": "14:144"
+    },
+    {
+      "source": "15:217",
+      "node": "I15:218;6:13",
+      "label": "Courses",
+      "target": "14:144"
+    },
+    {
+      "source": "15:217",
+      "node": "I15:218;6:14",
+      "label": "Achievements",
+      "target": "14:144"
+    },
+    {
+      "source": "15:217",
+      "node": "I15:218;6:15",
+      "label": "AI Companion",
+      "target": "14:144"
+    },
+    {
+      "source": "15:217",
+      "node": "I15:218;6:16",
+      "label": "My Learning",
+      "target": "14:144"
+    },
+    {
+      "source": "15:217",
+      "node": "15:240",
+      "label": "Continue",
+      "target": "15:245"
+    },
+    {
+      "source": "15:217",
+      "node": "15:242",
+      "label": "Save and leave",
+      "target": "14:144"
+    },
+    {
+      "source": "15:245",
+      "node": "I15:246;6:12",
+      "label": "B E L O N G",
+      "target": "14:144"
+    },
+    {
+      "source": "15:245",
+      "node": "I15:246;6:13",
+      "label": "Courses",
+      "target": "14:144"
+    },
+    {
+      "source": "15:245",
+      "node": "I15:246;6:14",
+      "label": "Achievements",
+      "target": "14:144"
+    },
+    {
+      "source": "15:245",
+      "node": "I15:246;6:15",
+      "label": "AI Companion",
+      "target": "14:144"
+    },
+    {
+      "source": "15:245",
+      "node": "I15:246;6:16",
+      "label": "My Learning",
+      "target": "14:144"
+    },
+    {
+      "source": "15:245",
+      "node": "15:261",
+      "label": "Answer option",
+      "target": "15:272"
+    },
+    {
+      "source": "15:245",
+      "node": "15:263",
+      "label": "Answer option",
+      "target": "15:272"
+    },
+    {
+      "source": "15:245",
+      "node": "15:265",
+      "label": "Answer option",
+      "target": "15:272"
+    },
+    {
+      "source": "15:245",
+      "node": "15:269",
+      "label": "Save and leave",
+      "target": "14:144"
+    },
+    {
+      "source": "15:272",
+      "node": "I15:273;6:12",
+      "label": "B E L O N G",
+      "target": "14:144"
+    },
+    {
+      "source": "15:272",
+      "node": "I15:273;6:13",
+      "label": "Courses",
+      "target": "14:144"
+    },
+    {
+      "source": "15:272",
+      "node": "I15:273;6:14",
+      "label": "Achievements",
+      "target": "14:144"
+    },
+    {
+      "source": "15:272",
+      "node": "I15:273;6:15",
+      "label": "AI Companion",
+      "target": "14:144"
+    },
+    {
+      "source": "15:272",
+      "node": "I15:273;6:16",
+      "label": "My Learning",
+      "target": "14:144"
+    },
+    {
+      "source": "15:272",
+      "node": "15:294",
+      "label": "Submit answer",
+      "target": "15:299"
+    },
+    {
+      "source": "15:272",
+      "node": "15:296",
+      "label": "Save and leave",
+      "target": "14:144"
+    },
+    {
+      "source": "15:299",
+      "node": "I15:300;6:12",
+      "label": "B E L O N G",
+      "target": "14:144"
+    },
+    {
+      "source": "15:299",
+      "node": "I15:300;6:13",
+      "label": "Courses",
+      "target": "14:144"
+    },
+    {
+      "source": "15:299",
+      "node": "I15:300;6:14",
+      "label": "Achievements",
+      "target": "14:144"
+    },
+    {
+      "source": "15:299",
+      "node": "I15:300;6:15",
+      "label": "AI Companion",
+      "target": "14:144"
+    },
+    {
+      "source": "15:299",
+      "node": "I15:300;6:16",
+      "label": "My Learning",
+      "target": "14:144"
+    },
+    {
+      "source": "15:299",
+      "node": "15:322",
+      "label": "Continue",
+      "target": "15:327"
+    },
+    {
+      "source": "15:299",
+      "node": "15:324",
+      "label": "Save and leave",
+      "target": "14:144"
+    },
+    {
+      "source": "15:327",
+      "node": "I15:328;6:12",
+      "label": "B E L O N G",
+      "target": "14:144"
+    },
+    {
+      "source": "15:327",
+      "node": "I15:328;6:13",
+      "label": "Courses",
+      "target": "14:144"
+    },
+    {
+      "source": "15:327",
+      "node": "I15:328;6:14",
+      "label": "Achievements",
+      "target": "14:144"
+    },
+    {
+      "source": "15:327",
+      "node": "I15:328;6:15",
+      "label": "AI Companion",
+      "target": "14:144"
+    },
+    {
+      "source": "15:327",
+      "node": "I15:328;6:16",
+      "label": "My Learning",
+      "target": "14:144"
+    },
+    {
+      "source": "15:327",
+      "node": "15:343",
+      "label": "Answer option",
+      "target": "15:354"
+    },
+    {
+      "source": "15:327",
+      "node": "15:345",
+      "label": "Answer option",
+      "target": "15:354"
+    },
+    {
+      "source": "15:327",
+      "node": "15:347",
+      "label": "Answer option",
+      "target": "15:354"
+    },
+    {
+      "source": "15:327",
+      "node": "15:351",
+      "label": "Save and leave",
+      "target": "14:144"
+    },
+    {
+      "source": "15:354",
+      "node": "I15:355;6:12",
+      "label": "B E L O N G",
+      "target": "14:144"
+    },
+    {
+      "source": "15:354",
+      "node": "I15:355;6:13",
+      "label": "Courses",
+      "target": "14:144"
+    },
+    {
+      "source": "15:354",
+      "node": "I15:355;6:14",
+      "label": "Achievements",
+      "target": "14:144"
+    },
+    {
+      "source": "15:354",
+      "node": "I15:355;6:15",
+      "label": "AI Companion",
+      "target": "14:144"
+    },
+    {
+      "source": "15:354",
+      "node": "I15:355;6:16",
+      "label": "My Learning",
+      "target": "14:144"
+    },
+    {
+      "source": "15:354",
+      "node": "15:376",
+      "label": "Submit answer",
+      "target": "15:381"
+    },
+    {
+      "source": "15:354",
+      "node": "15:378",
+      "label": "Save and leave",
+      "target": "14:144"
+    },
+    {
+      "source": "15:381",
+      "node": "I15:382;6:12",
+      "label": "B E L O N G",
+      "target": "14:144"
+    },
+    {
+      "source": "15:381",
+      "node": "I15:382;6:13",
+      "label": "Courses",
+      "target": "14:144"
+    },
+    {
+      "source": "15:381",
+      "node": "I15:382;6:14",
+      "label": "Achievements",
+      "target": "14:144"
+    },
+    {
+      "source": "15:381",
+      "node": "I15:382;6:15",
+      "label": "AI Companion",
+      "target": "14:144"
+    },
+    {
+      "source": "15:381",
+      "node": "I15:382;6:16",
+      "label": "My Learning",
+      "target": "14:144"
+    },
+    {
+      "source": "15:381",
+      "node": "15:404",
+      "label": "Continue",
+      "target": "15:409"
+    },
+    {
+      "source": "15:381",
+      "node": "15:406",
+      "label": "Save and leave",
+      "target": "14:144"
+    },
+    {
+      "source": "15:409",
+      "node": "I15:410;6:12",
+      "label": "B E L O N G",
+      "target": "14:144"
+    },
+    {
+      "source": "15:409",
+      "node": "I15:410;6:13",
+      "label": "Courses",
+      "target": "14:144"
+    },
+    {
+      "source": "15:409",
+      "node": "I15:410;6:14",
+      "label": "Achievements",
+      "target": "14:144"
+    },
+    {
+      "source": "15:409",
+      "node": "I15:410;6:15",
+      "label": "AI Companion",
+      "target": "14:144"
+    },
+    {
+      "source": "15:409",
+      "node": "I15:410;6:16",
+      "label": "My Learning",
+      "target": "14:144"
+    },
+    {
+      "source": "15:409",
+      "node": "15:425",
+      "label": "Answer option",
+      "target": "15:436"
+    },
+    {
+      "source": "15:409",
+      "node": "15:427",
+      "label": "Answer option",
+      "target": "15:436"
+    },
+    {
+      "source": "15:409",
+      "node": "15:429",
+      "label": "Answer option",
+      "target": "15:436"
+    },
+    {
+      "source": "15:409",
+      "node": "15:433",
+      "label": "Save and leave",
+      "target": "14:144"
+    },
+    {
+      "source": "15:436",
+      "node": "I15:437;6:12",
+      "label": "B E L O N G",
+      "target": "14:144"
+    },
+    {
+      "source": "15:436",
+      "node": "I15:437;6:13",
+      "label": "Courses",
+      "target": "14:144"
+    },
+    {
+      "source": "15:436",
+      "node": "I15:437;6:14",
+      "label": "Achievements",
+      "target": "14:144"
+    },
+    {
+      "source": "15:436",
+      "node": "I15:437;6:15",
+      "label": "AI Companion",
+      "target": "14:144"
+    },
+    {
+      "source": "15:436",
+      "node": "I15:437;6:16",
+      "label": "My Learning",
+      "target": "14:144"
+    },
+    {
+      "source": "15:436",
+      "node": "15:458",
+      "label": "Submit answer",
+      "target": "15:463"
+    },
+    {
+      "source": "15:436",
+      "node": "15:460",
+      "label": "Save and leave",
+      "target": "14:144"
+    },
+    {
+      "source": "15:463",
+      "node": "I15:464;6:12",
+      "label": "B E L O N G",
+      "target": "14:144"
+    },
+    {
+      "source": "15:463",
+      "node": "I15:464;6:13",
+      "label": "Courses",
+      "target": "14:144"
+    },
+    {
+      "source": "15:463",
+      "node": "I15:464;6:14",
+      "label": "Achievements",
+      "target": "14:144"
+    },
+    {
+      "source": "15:463",
+      "node": "I15:464;6:15",
+      "label": "AI Companion",
+      "target": "14:144"
+    },
+    {
+      "source": "15:463",
+      "node": "I15:464;6:16",
+      "label": "My Learning",
+      "target": "14:144"
+    },
+    {
+      "source": "15:463",
+      "node": "15:486",
+      "label": "Continue",
+      "target": "15:491"
+    },
+    {
+      "source": "15:463",
+      "node": "15:488",
+      "label": "Save and leave",
+      "target": "14:144"
+    },
+    {
+      "source": "15:491",
+      "node": "I15:492;6:12",
+      "label": "B E L O N G",
+      "target": "14:144"
+    },
+    {
+      "source": "15:491",
+      "node": "I15:492;6:13",
+      "label": "Courses",
+      "target": "14:144"
+    },
+    {
+      "source": "15:491",
+      "node": "I15:492;6:14",
+      "label": "Achievements",
+      "target": "14:144"
+    },
+    {
+      "source": "15:491",
+      "node": "I15:492;6:15",
+      "label": "AI Companion",
+      "target": "14:144"
+    },
+    {
+      "source": "15:491",
+      "node": "I15:492;6:16",
+      "label": "My Learning",
+      "target": "14:144"
+    },
+    {
+      "source": "15:491",
+      "node": "15:507",
+      "label": "Answer option",
+      "target": "15:518"
+    },
+    {
+      "source": "15:491",
+      "node": "15:509",
+      "label": "Answer option",
+      "target": "15:518"
+    },
+    {
+      "source": "15:491",
+      "node": "15:511",
+      "label": "Answer option",
+      "target": "15:518"
+    },
+    {
+      "source": "15:491",
+      "node": "15:515",
+      "label": "Save and leave",
+      "target": "14:144"
+    },
+    {
+      "source": "15:518",
+      "node": "I15:519;6:12",
+      "label": "B E L O N G",
+      "target": "14:144"
+    },
+    {
+      "source": "15:518",
+      "node": "I15:519;6:13",
+      "label": "Courses",
+      "target": "14:144"
+    },
+    {
+      "source": "15:518",
+      "node": "I15:519;6:14",
+      "label": "Achievements",
+      "target": "14:144"
+    },
+    {
+      "source": "15:518",
+      "node": "I15:519;6:15",
+      "label": "AI Companion",
+      "target": "14:144"
+    },
+    {
+      "source": "15:518",
+      "node": "I15:519;6:16",
+      "label": "My Learning",
+      "target": "14:144"
+    },
+    {
+      "source": "15:518",
+      "node": "15:540",
+      "label": "Submit answer",
+      "target": "15:545"
+    },
+    {
+      "source": "15:518",
+      "node": "15:542",
+      "label": "Save and leave",
+      "target": "14:144"
+    },
+    {
+      "source": "15:545",
+      "node": "I15:546;6:12",
+      "label": "B E L O N G",
+      "target": "14:144"
+    },
+    {
+      "source": "15:545",
+      "node": "I15:546;6:13",
+      "label": "Courses",
+      "target": "14:144"
+    },
+    {
+      "source": "15:545",
+      "node": "I15:546;6:14",
+      "label": "Achievements",
+      "target": "14:144"
+    },
+    {
+      "source": "15:545",
+      "node": "I15:546;6:15",
+      "label": "AI Companion",
+      "target": "14:144"
+    },
+    {
+      "source": "15:545",
+      "node": "I15:546;6:16",
+      "label": "My Learning",
+      "target": "14:144"
+    },
+    {
+      "source": "15:545",
+      "node": "15:568",
+      "label": "Continue",
+      "target": "15:573"
+    },
+    {
+      "source": "15:545",
+      "node": "15:570",
+      "label": "Save and leave",
+      "target": "14:144"
+    },
+    {
+      "source": "15:573",
+      "node": "I15:574;6:12",
+      "label": "B E L O N G",
+      "target": "14:144"
+    },
+    {
+      "source": "15:573",
+      "node": "I15:574;6:13",
+      "label": "Courses",
+      "target": "14:144"
+    },
+    {
+      "source": "15:573",
+      "node": "I15:574;6:14",
+      "label": "Achievements",
+      "target": "14:144"
+    },
+    {
+      "source": "15:573",
+      "node": "I15:574;6:15",
+      "label": "AI Companion",
+      "target": "14:144"
+    },
+    {
+      "source": "15:573",
+      "node": "I15:574;6:16",
+      "label": "My Learning",
+      "target": "14:144"
+    },
+    {
+      "source": "15:573",
+      "node": "15:589",
+      "label": "Answer option",
+      "target": "15:600"
+    },
+    {
+      "source": "15:573",
+      "node": "15:591",
+      "label": "Answer option",
+      "target": "15:600"
+    },
+    {
+      "source": "15:573",
+      "node": "15:593",
+      "label": "Answer option",
+      "target": "15:600"
+    },
+    {
+      "source": "15:573",
+      "node": "15:597",
+      "label": "Save and leave",
+      "target": "14:144"
+    },
+    {
+      "source": "15:600",
+      "node": "I15:601;6:12",
+      "label": "B E L O N G",
+      "target": "14:144"
+    },
+    {
+      "source": "15:600",
+      "node": "I15:601;6:13",
+      "label": "Courses",
+      "target": "14:144"
+    },
+    {
+      "source": "15:600",
+      "node": "I15:601;6:14",
+      "label": "Achievements",
+      "target": "14:144"
+    },
+    {
+      "source": "15:600",
+      "node": "I15:601;6:15",
+      "label": "AI Companion",
+      "target": "14:144"
+    },
+    {
+      "source": "15:600",
+      "node": "I15:601;6:16",
+      "label": "My Learning",
+      "target": "14:144"
+    },
+    {
+      "source": "15:600",
+      "node": "15:622",
+      "label": "Submit answer",
+      "target": "15:627"
+    },
+    {
+      "source": "15:600",
+      "node": "15:624",
+      "label": "Save and leave",
+      "target": "14:144"
+    },
+    {
+      "source": "15:627",
+      "node": "I15:628;6:12",
+      "label": "B E L O N G",
+      "target": "14:144"
+    },
+    {
+      "source": "15:627",
+      "node": "I15:628;6:13",
+      "label": "Courses",
+      "target": "14:144"
+    },
+    {
+      "source": "15:627",
+      "node": "I15:628;6:14",
+      "label": "Achievements",
+      "target": "14:144"
+    },
+    {
+      "source": "15:627",
+      "node": "I15:628;6:15",
+      "label": "AI Companion",
+      "target": "14:144"
+    },
+    {
+      "source": "15:627",
+      "node": "I15:628;6:16",
+      "label": "My Learning",
+      "target": "14:144"
+    },
+    {
+      "source": "15:627",
+      "node": "15:650",
+      "label": "Continue",
+      "target": "15:655"
+    },
+    {
+      "source": "15:627",
+      "node": "15:652",
+      "label": "Save and leave",
+      "target": "14:144"
+    },
+    {
+      "source": "15:655",
+      "node": "I15:656;6:12",
+      "label": "B E L O N G",
+      "target": "14:144"
+    },
+    {
+      "source": "15:655",
+      "node": "I15:656;6:13",
+      "label": "Courses",
+      "target": "14:144"
+    },
+    {
+      "source": "15:655",
+      "node": "I15:656;6:14",
+      "label": "Achievements",
+      "target": "14:144"
+    },
+    {
+      "source": "15:655",
+      "node": "I15:656;6:15",
+      "label": "AI Companion",
+      "target": "14:144"
+    },
+    {
+      "source": "15:655",
+      "node": "I15:656;6:16",
+      "label": "My Learning",
+      "target": "14:144"
+    },
+    {
+      "source": "15:655",
+      "node": "15:671",
+      "label": "Answer option",
+      "target": "15:682"
+    },
+    {
+      "source": "15:655",
+      "node": "15:673",
+      "label": "Answer option",
+      "target": "15:682"
+    },
+    {
+      "source": "15:655",
+      "node": "15:675",
+      "label": "Answer option",
+      "target": "15:682"
+    },
+    {
+      "source": "15:655",
+      "node": "15:679",
+      "label": "Save and leave",
+      "target": "14:144"
+    },
+    {
+      "source": "15:682",
+      "node": "I15:683;6:12",
+      "label": "B E L O N G",
+      "target": "14:144"
+    },
+    {
+      "source": "15:682",
+      "node": "I15:683;6:13",
+      "label": "Courses",
+      "target": "14:144"
+    },
+    {
+      "source": "15:682",
+      "node": "I15:683;6:14",
+      "label": "Achievements",
+      "target": "14:144"
+    },
+    {
+      "source": "15:682",
+      "node": "I15:683;6:15",
+      "label": "AI Companion",
+      "target": "14:144"
+    },
+    {
+      "source": "15:682",
+      "node": "I15:683;6:16",
+      "label": "My Learning",
+      "target": "14:144"
+    },
+    {
+      "source": "15:682",
+      "node": "15:704",
+      "label": "Submit answer",
+      "target": "15:709"
+    },
+    {
+      "source": "15:682",
+      "node": "15:706",
+      "label": "Save and leave",
+      "target": "14:144"
+    },
+    {
+      "source": "15:709",
+      "node": "I15:710;6:12",
+      "label": "B E L O N G",
+      "target": "14:144"
+    },
+    {
+      "source": "15:709",
+      "node": "I15:710;6:13",
+      "label": "Courses",
+      "target": "14:144"
+    },
+    {
+      "source": "15:709",
+      "node": "I15:710;6:14",
+      "label": "Achievements",
+      "target": "14:144"
+    },
+    {
+      "source": "15:709",
+      "node": "I15:710;6:15",
+      "label": "AI Companion",
+      "target": "14:144"
+    },
+    {
+      "source": "15:709",
+      "node": "I15:710;6:16",
+      "label": "My Learning",
+      "target": "14:144"
+    },
+    {
+      "source": "15:709",
+      "node": "15:732",
+      "label": "View results",
+      "target": "16:369"
+    },
+    {
+      "source": "15:709",
+      "node": "15:734",
+      "label": "Save and leave",
+      "target": "14:144"
+    },
+    {
+      "source": "16:369",
+      "node": "I16:370;6:12",
+      "label": "B E L O N G",
+      "target": "14:144"
+    },
+    {
+      "source": "16:369",
+      "node": "I16:370;6:13",
+      "label": "Courses",
+      "target": "14:144"
+    },
+    {
+      "source": "16:369",
+      "node": "I16:370;6:14",
+      "label": "Achievements",
+      "target": "14:144"
+    },
+    {
+      "source": "16:369",
+      "node": "I16:370;6:15",
+      "label": "AI Companion",
+      "target": "14:144"
+    },
+    {
+      "source": "16:369",
+      "node": "I16:370;6:16",
+      "label": "My Learning",
+      "target": "14:144"
+    },
+    {
+      "source": "16:369",
+      "node": "16:380",
+      "label": "Review all eight answers",
+      "target": "16:385"
+    },
+    {
+      "source": "16:369",
+      "node": "16:382",
+      "label": "Preview passing result",
+      "target": "16:430"
+    },
+    {
+      "source": "16:385",
+      "node": "I16:386;6:12",
+      "label": "B E L O N G",
+      "target": "14:144"
+    },
+    {
+      "source": "16:385",
+      "node": "I16:386;6:13",
+      "label": "Courses",
+      "target": "14:144"
+    },
+    {
+      "source": "16:385",
+      "node": "I16:386;6:14",
+      "label": "Achievements",
+      "target": "14:144"
+    },
+    {
+      "source": "16:385",
+      "node": "I16:386;6:15",
+      "label": "AI Companion",
+      "target": "14:144"
+    },
+    {
+      "source": "16:385",
+      "node": "I16:386;6:16",
+      "label": "My Learning",
+      "target": "14:144"
+    },
+    {
+      "source": "16:385",
+      "node": "16:428",
+      "label": "Correct missed questions",
+      "target": "16:445"
+    },
+    {
+      "source": "16:430",
+      "node": "I16:431;6:12",
+      "label": "B E L O N G",
+      "target": "14:144"
+    },
+    {
+      "source": "16:430",
+      "node": "I16:431;6:13",
+      "label": "Courses",
+      "target": "14:144"
+    },
+    {
+      "source": "16:430",
+      "node": "I16:431;6:14",
+      "label": "Achievements",
+      "target": "14:144"
+    },
+    {
+      "source": "16:430",
+      "node": "I16:431;6:15",
+      "label": "AI Companion",
+      "target": "14:144"
+    },
+    {
+      "source": "16:430",
+      "node": "I16:431;6:16",
+      "label": "My Learning",
+      "target": "14:144"
+    },
+    {
+      "source": "16:430",
+      "node": "16:441",
+      "label": "Review answers",
+      "target": "19:744"
+    },
+    {
+      "source": "16:430",
+      "node": "16:443",
+      "label": "Start role play",
+      "target": "16:509"
+    },
+    {
+      "source": "16:445",
+      "node": "I16:446;6:12",
+      "label": "B E L O N G",
+      "target": "14:144"
+    },
+    {
+      "source": "16:445",
+      "node": "I16:446;6:13",
+      "label": "Courses",
+      "target": "14:144"
+    },
+    {
+      "source": "16:445",
+      "node": "I16:446;6:14",
+      "label": "Achievements",
+      "target": "14:144"
+    },
+    {
+      "source": "16:445",
+      "node": "I16:446;6:15",
+      "label": "AI Companion",
+      "target": "14:144"
+    },
+    {
+      "source": "16:445",
+      "node": "I16:446;6:16",
+      "label": "My Learning",
+      "target": "14:144"
+    },
+    {
+      "source": "16:445",
+      "node": "16:460",
+      "label": "Submit correction",
+      "target": "16:463"
+    },
+    {
+      "source": "16:463",
+      "node": "I16:464;6:12",
+      "label": "B E L O N G",
+      "target": "14:144"
+    },
+    {
+      "source": "16:463",
+      "node": "I16:464;6:13",
+      "label": "Courses",
+      "target": "14:144"
+    },
+    {
+      "source": "16:463",
+      "node": "I16:464;6:14",
+      "label": "Achievements",
+      "target": "14:144"
+    },
+    {
+      "source": "16:463",
+      "node": "I16:464;6:15",
+      "label": "AI Companion",
+      "target": "14:144"
+    },
+    {
+      "source": "16:463",
+      "node": "I16:464;6:16",
+      "label": "My Learning",
+      "target": "14:144"
+    },
+    {
+      "source": "16:463",
+      "node": "16:478",
+      "label": "Finish correction round",
+      "target": "16:480"
+    },
+    {
+      "source": "16:480",
+      "node": "I16:481;6:12",
+      "label": "B E L O N G",
+      "target": "14:144"
+    },
+    {
+      "source": "16:480",
+      "node": "I16:481;6:13",
+      "label": "Courses",
+      "target": "14:144"
+    },
+    {
+      "source": "16:480",
+      "node": "I16:481;6:14",
+      "label": "Achievements",
+      "target": "14:144"
+    },
+    {
+      "source": "16:480",
+      "node": "I16:481;6:15",
+      "label": "AI Companion",
+      "target": "14:144"
+    },
+    {
+      "source": "16:480",
+      "node": "I16:481;6:16",
+      "label": "My Learning",
+      "target": "14:144"
+    },
+    {
+      "source": "16:480",
+      "node": "16:491",
+      "label": "Continue to role play",
+      "target": "16:509"
+    },
+    {
+      "source": "16:480",
+      "node": "16:493",
+      "label": "Preview below-target outcome",
+      "target": "16:495"
+    },
+    {
+      "source": "16:495",
+      "node": "I16:496;6:12",
+      "label": "B E L O N G",
+      "target": "14:144"
+    },
+    {
+      "source": "16:495",
+      "node": "I16:496;6:13",
+      "label": "Courses",
+      "target": "14:144"
+    },
+    {
+      "source": "16:495",
+      "node": "I16:496;6:14",
+      "label": "Achievements",
+      "target": "14:144"
+    },
+    {
+      "source": "16:495",
+      "node": "I16:496;6:15",
+      "label": "AI Companion",
+      "target": "14:144"
+    },
+    {
+      "source": "16:495",
+      "node": "I16:496;6:16",
+      "label": "My Learning",
+      "target": "14:144"
+    },
+    {
+      "source": "16:495",
+      "node": "16:506",
+      "label": "Continue to role play",
+      "target": "19:520"
+    },
+    {
+      "source": "16:509",
+      "node": "I16:510;6:12",
+      "label": "B E L O N G",
+      "target": "14:144"
+    },
+    {
+      "source": "16:509",
+      "node": "I16:510;6:13",
+      "label": "Courses",
+      "target": "14:144"
+    },
+    {
+      "source": "16:509",
+      "node": "I16:510;6:14",
+      "label": "Achievements",
+      "target": "14:144"
+    },
+    {
+      "source": "16:509",
+      "node": "I16:510;6:15",
+      "label": "AI Companion",
+      "target": "14:144"
+    },
+    {
+      "source": "16:509",
+      "node": "I16:510;6:16",
+      "label": "My Learning",
+      "target": "14:144"
+    },
+    {
+      "source": "16:509",
+      "node": "16:521",
+      "label": "Start practice",
+      "target": "16:524"
+    },
+    {
+      "source": "16:524",
+      "node": "I16:525;6:12",
+      "label": "B E L O N G",
+      "target": "14:144"
+    },
+    {
+      "source": "16:524",
+      "node": "I16:525;6:13",
+      "label": "Courses",
+      "target": "14:144"
+    },
+    {
+      "source": "16:524",
+      "node": "I16:525;6:14",
+      "label": "Achievements",
+      "target": "14:144"
+    },
+    {
+      "source": "16:524",
+      "node": "I16:525;6:15",
+      "label": "AI Companion",
+      "target": "14:144"
+    },
+    {
+      "source": "16:524",
+      "node": "I16:525;6:16",
+      "label": "My Learning",
+      "target": "14:144"
+    },
+    {
+      "source": "16:524",
+      "node": "16:541",
+      "label": "Send response · demo",
+      "target": "16:548"
+    },
+    {
+      "source": "16:524",
+      "node": "16:543",
+      "label": "Need a hint?",
+      "target": "16:609"
+    },
+    {
+      "source": "16:524",
+      "node": "16:545",
+      "label": "Connection error preview",
+      "target": "16:623"
+    },
+    {
+      "source": "16:548",
+      "node": "I16:549;6:12",
+      "label": "B E L O N G",
+      "target": "14:144"
+    },
+    {
+      "source": "16:548",
+      "node": "I16:549;6:13",
+      "label": "Courses",
+      "target": "14:144"
+    },
+    {
+      "source": "16:548",
+      "node": "I16:549;6:14",
+      "label": "Achievements",
+      "target": "14:144"
+    },
+    {
+      "source": "16:548",
+      "node": "I16:549;6:15",
+      "label": "AI Companion",
+      "target": "14:144"
+    },
+    {
+      "source": "16:548",
+      "node": "I16:549;6:16",
+      "label": "My Learning",
+      "target": "14:144"
+    },
+    {
+      "source": "16:548",
+      "node": "16:565",
+      "label": "Send response · demo",
+      "target": "16:572"
+    },
+    {
+      "source": "16:548",
+      "node": "16:567",
+      "label": "Need a hint?",
+      "target": "16:609"
+    },
+    {
+      "source": "16:548",
+      "node": "16:569",
+      "label": "Connection error preview",
+      "target": "16:623"
+    },
+    {
+      "source": "16:572",
+      "node": "I16:573;6:12",
+      "label": "B E L O N G",
+      "target": "14:144"
+    },
+    {
+      "source": "16:572",
+      "node": "I16:573;6:13",
+      "label": "Courses",
+      "target": "14:144"
+    },
+    {
+      "source": "16:572",
+      "node": "I16:573;6:14",
+      "label": "Achievements",
+      "target": "14:144"
+    },
+    {
+      "source": "16:572",
+      "node": "I16:573;6:15",
+      "label": "AI Companion",
+      "target": "14:144"
+    },
+    {
+      "source": "16:572",
+      "node": "I16:573;6:16",
+      "label": "My Learning",
+      "target": "14:144"
+    },
+    {
+      "source": "16:572",
+      "node": "16:589",
+      "label": "Send response · demo",
+      "target": "16:596"
+    },
+    {
+      "source": "16:572",
+      "node": "16:591",
+      "label": "Need a hint?",
+      "target": "16:609"
+    },
+    {
+      "source": "16:572",
+      "node": "16:593",
+      "label": "Connection error preview",
+      "target": "16:623"
+    },
+    {
+      "source": "16:596",
+      "node": "I16:597;6:12",
+      "label": "B E L O N G",
+      "target": "14:144"
+    },
+    {
+      "source": "16:596",
+      "node": "I16:597;6:13",
+      "label": "Courses",
+      "target": "14:144"
+    },
+    {
+      "source": "16:596",
+      "node": "I16:597;6:14",
+      "label": "Achievements",
+      "target": "14:144"
+    },
+    {
+      "source": "16:596",
+      "node": "I16:597;6:15",
+      "label": "AI Companion",
+      "target": "14:144"
+    },
+    {
+      "source": "16:596",
+      "node": "I16:597;6:16",
+      "label": "My Learning",
+      "target": "14:144"
+    },
+    {
+      "source": "16:596",
+      "node": "16:607",
+      "label": "View coach feedback",
+      "target": "16:638"
+    },
+    {
+      "source": "16:609",
+      "node": "I16:610;6:12",
+      "label": "B E L O N G",
+      "target": "14:144"
+    },
+    {
+      "source": "16:609",
+      "node": "I16:610;6:13",
+      "label": "Courses",
+      "target": "14:144"
+    },
+    {
+      "source": "16:609",
+      "node": "I16:610;6:14",
+      "label": "Achievements",
+      "target": "14:144"
+    },
+    {
+      "source": "16:609",
+      "node": "I16:610;6:15",
+      "label": "AI Companion",
+      "target": "14:144"
+    },
+    {
+      "source": "16:609",
+      "node": "I16:610;6:16",
+      "label": "My Learning",
+      "target": "14:144"
+    },
+    {
+      "source": "16:609",
+      "node": "16:620",
+      "label": "Return to conversation",
+      "target": "16:524"
+    },
+    {
+      "source": "16:623",
+      "node": "I16:624;6:12",
+      "label": "B E L O N G",
+      "target": "14:144"
+    },
+    {
+      "source": "16:623",
+      "node": "I16:624;6:13",
+      "label": "Courses",
+      "target": "14:144"
+    },
+    {
+      "source": "16:623",
+      "node": "I16:624;6:14",
+      "label": "Achievements",
+      "target": "14:144"
+    },
+    {
+      "source": "16:623",
+      "node": "I16:624;6:15",
+      "label": "AI Companion",
+      "target": "14:144"
+    },
+    {
+      "source": "16:623",
+      "node": "I16:624;6:16",
+      "label": "My Learning",
+      "target": "14:144"
+    },
+    {
+      "source": "16:623",
+      "node": "16:634",
+      "label": "Retry response",
+      "target": "16:548"
+    },
+    {
+      "source": "16:623",
+      "node": "16:636",
+      "label": "End attempt",
+      "target": "16:700"
+    },
+    {
+      "source": "16:638",
+      "node": "I16:639;6:12",
+      "label": "B E L O N G",
+      "target": "14:144"
+    },
+    {
+      "source": "16:638",
+      "node": "I16:639;6:13",
+      "label": "Courses",
+      "target": "14:144"
+    },
+    {
+      "source": "16:638",
+      "node": "I16:639;6:14",
+      "label": "Achievements",
+      "target": "14:144"
+    },
+    {
+      "source": "16:638",
+      "node": "I16:639;6:15",
+      "label": "AI Companion",
+      "target": "14:144"
+    },
+    {
+      "source": "16:638",
+      "node": "I16:639;6:16",
+      "label": "My Learning",
+      "target": "14:144"
+    },
+    {
+      "source": "16:638",
+      "node": "16:651",
+      "label": "Review conversation",
+      "target": "16:656"
+    },
+    {
+      "source": "16:638",
+      "node": "16:653",
+      "label": "Finish practice",
+      "target": "16:670"
+    },
+    {
+      "source": "16:656",
+      "node": "I16:657;6:12",
+      "label": "B E L O N G",
+      "target": "14:144"
+    },
+    {
+      "source": "16:656",
+      "node": "I16:657;6:13",
+      "label": "Courses",
+      "target": "14:144"
+    },
+    {
+      "source": "16:656",
+      "node": "I16:657;6:14",
+      "label": "Achievements",
+      "target": "14:144"
+    },
+    {
+      "source": "16:656",
+      "node": "I16:657;6:15",
+      "label": "AI Companion",
+      "target": "14:144"
+    },
+    {
+      "source": "16:656",
+      "node": "I16:657;6:16",
+      "label": "My Learning",
+      "target": "14:144"
+    },
+    {
+      "source": "16:656",
+      "node": "16:667",
+      "label": "Back to coach review",
+      "target": "16:638"
+    },
+    {
+      "source": "16:670",
+      "node": "I16:671;6:12",
+      "label": "B E L O N G",
+      "target": "13:2"
+    },
+    {
+      "source": "16:670",
+      "node": "I16:671;6:13",
+      "label": "Courses",
+      "target": "13:2"
+    },
+    {
+      "source": "16:670",
+      "node": "I16:671;6:14",
+      "label": "Achievements",
+      "target": "14:31"
+    },
+    {
+      "source": "16:670",
+      "node": "I16:671;6:15",
+      "label": "AI Companion",
+      "target": "14:45"
+    },
+    {
+      "source": "16:670",
+      "node": "I16:671;6:16",
+      "label": "My Learning",
+      "target": "14:59"
+    },
+    {
+      "source": "16:670",
+      "node": "16:681",
+      "label": "Return to survey",
+      "target": "16:715"
+    },
+    {
+      "source": "16:670",
+      "node": "16:683",
+      "label": "Standalone demo: learning home",
+      "target": "13:2"
+    },
+    {
+      "source": "16:670",
+      "node": "16:685",
+      "label": "Preview below-target finish",
+      "target": "16:687"
+    },
+    {
+      "source": "16:687",
+      "node": "I16:688;6:12",
+      "label": "B E L O N G",
+      "target": "13:2"
+    },
+    {
+      "source": "16:687",
+      "node": "I16:688;6:13",
+      "label": "Courses",
+      "target": "13:2"
+    },
+    {
+      "source": "16:687",
+      "node": "I16:688;6:14",
+      "label": "Achievements",
+      "target": "14:31"
+    },
+    {
+      "source": "16:687",
+      "node": "I16:688;6:15",
+      "label": "AI Companion",
+      "target": "14:45"
+    },
+    {
+      "source": "16:687",
+      "node": "I16:688;6:16",
+      "label": "My Learning",
+      "target": "14:59"
+    },
+    {
+      "source": "16:687",
+      "node": "16:698",
+      "label": "Return to survey",
+      "target": "16:715"
+    },
+    {
+      "source": "16:700",
+      "node": "I16:701;6:12",
+      "label": "B E L O N G",
+      "target": "13:2"
+    },
+    {
+      "source": "16:700",
+      "node": "I16:701;6:13",
+      "label": "Courses",
+      "target": "13:2"
+    },
+    {
+      "source": "16:700",
+      "node": "I16:701;6:14",
+      "label": "Achievements",
+      "target": "14:31"
+    },
+    {
+      "source": "16:700",
+      "node": "I16:701;6:15",
+      "label": "AI Companion",
+      "target": "14:45"
+    },
+    {
+      "source": "16:700",
+      "node": "I16:701;6:16",
+      "label": "My Learning",
+      "target": "14:59"
+    },
+    {
+      "source": "16:700",
+      "node": "16:711",
+      "label": "Try to resume",
+      "target": "16:524"
+    },
+    {
+      "source": "16:700",
+      "node": "16:713",
+      "label": "Return to survey",
+      "target": "16:715"
+    },
+    {
+      "source": "16:715",
+      "node": "I16:716;6:12",
+      "label": "B E L O N G",
+      "target": "13:2"
+    },
+    {
+      "source": "16:715",
+      "node": "I16:716;6:13",
+      "label": "Courses",
+      "target": "13:2"
+    },
+    {
+      "source": "16:715",
+      "node": "I16:716;6:14",
+      "label": "Achievements",
+      "target": "14:31"
+    },
+    {
+      "source": "16:715",
+      "node": "I16:716;6:15",
+      "label": "AI Companion",
+      "target": "14:45"
+    },
+    {
+      "source": "16:715",
+      "node": "I16:716;6:16",
+      "label": "My Learning",
+      "target": "14:59"
+    },
+    {
+      "source": "16:715",
+      "node": "16:726",
+      "label": "Return to survey · demo",
+      "target": "16:729"
+    },
+    {
+      "source": "16:729",
+      "node": "I16:730;6:12",
+      "label": "B E L O N G",
+      "target": "13:2"
+    },
+    {
+      "source": "16:729",
+      "node": "I16:730;6:13",
+      "label": "Courses",
+      "target": "13:2"
+    },
+    {
+      "source": "16:729",
+      "node": "I16:730;6:14",
+      "label": "Achievements",
+      "target": "14:31"
+    },
+    {
+      "source": "16:729",
+      "node": "I16:730;6:15",
+      "label": "AI Companion",
+      "target": "14:45"
+    },
+    {
+      "source": "16:729",
+      "node": "I16:730;6:16",
+      "label": "My Learning",
+      "target": "14:59"
+    },
+    {
+      "source": "16:729",
+      "node": "16:740",
+      "label": "Try return again",
+      "target": "16:715"
+    },
+    {
+      "source": "16:729",
+      "node": "16:742",
+      "label": "Back to prototype home",
+      "target": "13:2"
+    },
+    {
+      "source": "19:520",
+      "node": "I19:521;6:12",
+      "label": "B E L O N G",
+      "target": "14:144"
+    },
+    {
+      "source": "19:520",
+      "node": "I19:521;6:13",
+      "label": "Courses",
+      "target": "14:144"
+    },
+    {
+      "source": "19:520",
+      "node": "I19:521;6:14",
+      "label": "Achievements",
+      "target": "14:144"
+    },
+    {
+      "source": "19:520",
+      "node": "I19:521;6:15",
+      "label": "AI Companion",
+      "target": "14:144"
+    },
+    {
+      "source": "19:520",
+      "node": "I19:521;6:16",
+      "label": "My Learning",
+      "target": "14:144"
+    },
+    {
+      "source": "19:520",
+      "node": "19:527",
+      "label": "Start practice",
+      "target": "19:535"
+    },
+    {
+      "source": "19:535",
+      "node": "I19:536;6:12",
+      "label": "B E L O N G",
+      "target": "14:144"
+    },
+    {
+      "source": "19:535",
+      "node": "I19:536;6:13",
+      "label": "Courses",
+      "target": "14:144"
+    },
+    {
+      "source": "19:535",
+      "node": "I19:536;6:14",
+      "label": "Achievements",
+      "target": "14:144"
+    },
+    {
+      "source": "19:535",
+      "node": "I19:536;6:15",
+      "label": "AI Companion",
+      "target": "14:144"
+    },
+    {
+      "source": "19:535",
+      "node": "I19:536;6:16",
+      "label": "My Learning",
+      "target": "14:144"
+    },
+    {
+      "source": "19:535",
+      "node": "19:545",
+      "label": "Send response · demo",
+      "target": "19:559"
+    },
+    {
+      "source": "19:535",
+      "node": "19:546",
+      "label": "Need a hint?",
+      "target": "19:620"
+    },
+    {
+      "source": "19:535",
+      "node": "19:547",
+      "label": "Connection error preview",
+      "target": "19:634"
+    },
+    {
+      "source": "19:559",
+      "node": "I19:560;6:12",
+      "label": "B E L O N G",
+      "target": "14:144"
+    },
+    {
+      "source": "19:559",
+      "node": "I19:560;6:13",
+      "label": "Courses",
+      "target": "14:144"
+    },
+    {
+      "source": "19:559",
+      "node": "I19:560;6:14",
+      "label": "Achievements",
+      "target": "14:144"
+    },
+    {
+      "source": "19:559",
+      "node": "I19:560;6:15",
+      "label": "AI Companion",
+      "target": "14:144"
+    },
+    {
+      "source": "19:559",
+      "node": "I19:560;6:16",
+      "label": "My Learning",
+      "target": "14:144"
+    },
+    {
+      "source": "19:559",
+      "node": "19:569",
+      "label": "Send response · demo",
+      "target": "19:583"
+    },
+    {
+      "source": "19:559",
+      "node": "19:570",
+      "label": "Need a hint?",
+      "target": "19:620"
+    },
+    {
+      "source": "19:559",
+      "node": "19:571",
+      "label": "Connection error preview",
+      "target": "19:634"
+    },
+    {
+      "source": "19:583",
+      "node": "I19:584;6:12",
+      "label": "B E L O N G",
+      "target": "14:144"
+    },
+    {
+      "source": "19:583",
+      "node": "I19:584;6:13",
+      "label": "Courses",
+      "target": "14:144"
+    },
+    {
+      "source": "19:583",
+      "node": "I19:584;6:14",
+      "label": "Achievements",
+      "target": "14:144"
+    },
+    {
+      "source": "19:583",
+      "node": "I19:584;6:15",
+      "label": "AI Companion",
+      "target": "14:144"
+    },
+    {
+      "source": "19:583",
+      "node": "I19:584;6:16",
+      "label": "My Learning",
+      "target": "14:144"
+    },
+    {
+      "source": "19:583",
+      "node": "19:593",
+      "label": "Send response · demo",
+      "target": "19:607"
+    },
+    {
+      "source": "19:583",
+      "node": "19:594",
+      "label": "Need a hint?",
+      "target": "19:620"
+    },
+    {
+      "source": "19:583",
+      "node": "19:595",
+      "label": "Connection error preview",
+      "target": "19:634"
+    },
+    {
+      "source": "19:607",
+      "node": "I19:608;6:12",
+      "label": "B E L O N G",
+      "target": "14:144"
+    },
+    {
+      "source": "19:607",
+      "node": "I19:608;6:13",
+      "label": "Courses",
+      "target": "14:144"
+    },
+    {
+      "source": "19:607",
+      "node": "I19:608;6:14",
+      "label": "Achievements",
+      "target": "14:144"
+    },
+    {
+      "source": "19:607",
+      "node": "I19:608;6:15",
+      "label": "AI Companion",
+      "target": "14:144"
+    },
+    {
+      "source": "19:607",
+      "node": "I19:608;6:16",
+      "label": "My Learning",
+      "target": "14:144"
+    },
+    {
+      "source": "19:607",
+      "node": "19:613",
+      "label": "View coach feedback",
+      "target": "19:649"
+    },
+    {
+      "source": "19:620",
+      "node": "I19:621;6:12",
+      "label": "B E L O N G",
+      "target": "14:144"
+    },
+    {
+      "source": "19:620",
+      "node": "I19:621;6:13",
+      "label": "Courses",
+      "target": "14:144"
+    },
+    {
+      "source": "19:620",
+      "node": "I19:621;6:14",
+      "label": "Achievements",
+      "target": "14:144"
+    },
+    {
+      "source": "19:620",
+      "node": "I19:621;6:15",
+      "label": "AI Companion",
+      "target": "14:144"
+    },
+    {
+      "source": "19:620",
+      "node": "I19:621;6:16",
+      "label": "My Learning",
+      "target": "14:144"
+    },
+    {
+      "source": "19:620",
+      "node": "19:626",
+      "label": "Return to conversation",
+      "target": "19:535"
+    },
+    {
+      "source": "19:634",
+      "node": "I19:635;6:12",
+      "label": "B E L O N G",
+      "target": "14:144"
+    },
+    {
+      "source": "19:634",
+      "node": "I19:635;6:13",
+      "label": "Courses",
+      "target": "14:144"
+    },
+    {
+      "source": "19:634",
+      "node": "I19:635;6:14",
+      "label": "Achievements",
+      "target": "14:144"
+    },
+    {
+      "source": "19:634",
+      "node": "I19:635;6:15",
+      "label": "AI Companion",
+      "target": "14:144"
+    },
+    {
+      "source": "19:634",
+      "node": "I19:635;6:16",
+      "label": "My Learning",
+      "target": "14:144"
+    },
+    {
+      "source": "19:634",
+      "node": "19:640",
+      "label": "Retry response",
+      "target": "19:559"
+    },
+    {
+      "source": "19:634",
+      "node": "19:641",
+      "label": "End attempt",
+      "target": "16:700"
+    },
+    {
+      "source": "19:649",
+      "node": "I19:650;6:12",
+      "label": "B E L O N G",
+      "target": "14:144"
+    },
+    {
+      "source": "19:649",
+      "node": "I19:650;6:13",
+      "label": "Courses",
+      "target": "14:144"
+    },
+    {
+      "source": "19:649",
+      "node": "I19:650;6:14",
+      "label": "Achievements",
+      "target": "14:144"
+    },
+    {
+      "source": "19:649",
+      "node": "I19:650;6:15",
+      "label": "AI Companion",
+      "target": "14:144"
+    },
+    {
+      "source": "19:649",
+      "node": "I19:650;6:16",
+      "label": "My Learning",
+      "target": "14:144"
+    },
+    {
+      "source": "19:649",
+      "node": "19:657",
+      "label": "Review conversation",
+      "target": "19:667"
+    },
+    {
+      "source": "19:649",
+      "node": "19:658",
+      "label": "Finish practice",
+      "target": "16:687"
+    },
+    {
+      "source": "19:667",
+      "node": "I19:668;6:12",
+      "label": "B E L O N G",
+      "target": "14:144"
+    },
+    {
+      "source": "19:667",
+      "node": "I19:668;6:13",
+      "label": "Courses",
+      "target": "14:144"
+    },
+    {
+      "source": "19:667",
+      "node": "I19:668;6:14",
+      "label": "Achievements",
+      "target": "14:144"
+    },
+    {
+      "source": "19:667",
+      "node": "I19:668;6:15",
+      "label": "AI Companion",
+      "target": "14:144"
+    },
+    {
+      "source": "19:667",
+      "node": "I19:668;6:16",
+      "label": "My Learning",
+      "target": "14:144"
+    },
+    {
+      "source": "19:667",
+      "node": "19:673",
+      "label": "Back to coach review",
+      "target": "19:649"
+    },
+    {
+      "source": "19:744",
+      "node": "I19:745;6:12",
+      "label": "B E L O N G",
+      "target": "14:144"
+    },
+    {
+      "source": "19:744",
+      "node": "I19:745;6:13",
+      "label": "Courses",
+      "target": "14:144"
+    },
+    {
+      "source": "19:744",
+      "node": "I19:745;6:14",
+      "label": "Achievements",
+      "target": "14:144"
+    },
+    {
+      "source": "19:744",
+      "node": "I19:745;6:15",
+      "label": "AI Companion",
+      "target": "14:144"
+    },
+    {
+      "source": "19:744",
+      "node": "I19:745;6:16",
+      "label": "My Learning",
+      "target": "14:144"
+    },
+    {
+      "source": "19:744",
+      "node": "19:782",
+      "label": "Continue to role play",
+      "target": "16:509"
+    }
+  ],
+  "reachableFromHome": 66,
+  "unlinked": [
+    {
+      "id": "14:160",
+      "name": "D12 · We could not save your answer"
+    }
+  ],
+  "runtime": {
+    "mode": "persistent local learning",
+    "previewHashParameter": "preview=1",
+    "originalConnectionsAreReviewReferences": true,
+    "saveConfirmation": "retain exact screen and requested destination",
+    "quiz": "actual immutable first answers plus one missed-question correction round",
+    "xp": "10 * first-attempt correct answers",
+    "video": "one native player; actual ended after watched-content gate",
+    "roleplay": "three retained replies; fixed original Maya and coach demo content",
+    "surveyConfig": "config.js: surveyReturnUrl"
+  }
+}

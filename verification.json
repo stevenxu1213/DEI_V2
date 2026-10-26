@@ -1,0 +1,44 @@
+{
+  "date": "2026-10-26",
+  "screenCount": 67,
+  "originalHtmlBodyPreserved": true,
+  "originalImagesAndFontsUnchanged": true,
+  "video": {
+    "file": "assets/video.mp4",
+    "durationSeconds": 108.966667,
+    "width": 1280,
+    "height": 720,
+    "bytes": 10294083,
+    "sha256": "d71f5a453987bacc89be60796ebb3c07a3d3a573075c2b5cbde63aec6a02b7d0",
+    "actualPlaybackEndedVerified": true,
+    "rangeRequestsVerified": true
+  },
+  "browserChecks": {
+    "previewConnections": 467,
+    "failedPreviewConnections": 0,
+    "responsivePreviewCases": 402,
+    "responsiveLiveCases": 18,
+    "horizontalOverflowCases": 0,
+    "brokenImageCases": 0,
+    "verifiedFlows": [
+      "all eight actual answers and immutable submissions",
+      "6/8 first attempt -> 8/8 after correction; XP stays 60",
+      "only missed questions corrected, including three-question correction",
+      "below-target completion without passed reward",
+      "navigation destination retained through confirmation",
+      "selected answer and conversation drafts survive refresh",
+      "hint and retry return to second conversation turn",
+      "technical interruption resumes below-target turn",
+      "storage failure blocks progress; retry retains selection",
+      "actual end unlocks quiz; direct URL cannot bypass watching",
+      "simulation preview does not mark actual video complete",
+      "actual submitted transcript and coach acknowledgement",
+      "completed course resumes completion screen",
+      "unconfigured survey uses original preview"
+    ]
+  },
+  "unitStateChecks": 9,
+  "surveyConfigured": false,
+  "aiBackendConnected": false,
+  "persistence": "localStorage; browser and origin specific"
+}
